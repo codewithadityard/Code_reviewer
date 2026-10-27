@@ -1,0 +1,26 @@
+# Core AutoGen v0.4 framework
+autogen-agentchat
+
+# Extensions for OpenAI models, local & docker execution
+autogen-ext[ollama,docker]
+
+# Environment variable management
+python-dotenv
+
+# Graph orchestration & state management
+langgraph
+langchain
+langchain-openai
+langchain-core
+langfuse
+
+# Sandboxing & container execution
+docker
+
+# AST parsing & context pruning
+tree-sitter
+tree-sitter-python
+
+# Web Frontend
+streamlit
+requests

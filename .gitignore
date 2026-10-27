@@ -1,0 +1,22 @@
+# Environment Variables (Never commit API keys or secrets)
+.env
+
+# Virtual Environments
+autodev-env/
+venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project-Specific Temporary/Runtime Folders
+working_space/
+.agents/
+
+# Testing
+.pytest_cache/
+
+#Agents
+.agents/
